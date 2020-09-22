@@ -1,3 +1,3 @@
 A simple personal website 
 
-https://anriod.github.io/AnirudhNarsipur/
+https://anirudhnarsipur.github.io/
